@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Limaiza
 - 👀 I’m interested in learning more about programming
-- 🌱 I’m currently learning HTML and JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something that brings me learning
 - 📫 How to reach me: Izabele de Lima - Linkedin
 
